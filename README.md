@@ -81,7 +81,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 
 ## 📫 Get in Touch
 
-- **Email:** [hombrecito2580@gmail.com]
+- **Email:** hombrecito2580@gmail.com
 - **LinkedIn:** [pratyush-kumar-chaturvedi](https://www.linkedin.com/in/pratyush-kumar-chaturvedi-086958256)
 
 ---
