@@ -34,6 +34,15 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 - Integrated Dark Mode feature to enhance user experience and accessibility.
 - **Source code available on GitHub:** [LetMeKnow-WOC22](https://github.com/LetMeKnow-WOC22)
 
+### 4. CEREBROSCAN - Insightful Brain Health Solutions
+**Tech Stack:** Kotlin, XML, Retrofit, Node.js, Express.js, MongoDB  
+**Description:** Developed an android app to innovate brain health diagnostics through MRI scans, leveraging advanced machine learning to detect diseases and offer personalized measures.
+- Employed a clean architecture and MVVM pattern to ensure modularity and maintainability of the codebase.
+- Integrated JWT authentication using MongoDB and Express.js for enhanced security.
+- Implemented support for dark theme to enhance user experience and accessibility.
+- Hosted the backend server and the ML model on Render for seamless performance and scalability.
+- **Source code available on GitHub:** [cerebroscan-hackoverflow07](https://github.com/hombrecito2580/cerebroscan-hackoverflow07)
+
 ---
 
 ## 🔧 Technical Skills
