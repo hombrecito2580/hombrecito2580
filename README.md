@@ -47,7 +47,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 
 ## 🔧 Technical Skills
 
-**Programming Languages:**  
+**Languages:**  
 [![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
