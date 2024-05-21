@@ -1,16 +1,80 @@
-<h1 align="center">Hi 👋, I'm Pratyush Chaturvedi</h1>
-<h3 align="center">A Computer Science Undergrad and a passionate App Developer from India.</h3>
+# Welcome to [hombrecito2580](https://github.com/hombrecito2580)'s Repository
 
-- 🌱 I’m currently learning **Native Android Development and Cross-Platform Development using Flutter.**
+## Hi there! 👋
 
-- 👯 I’m looking to collaborate on **Android Projects.**
+I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for app development. Here, you'll find various projects that I've worked on, primarily focusing on Android and Flutter development. Feel free to explore, contribute, or just say hi!
 
-- 📫 Contact me through **hombrecito2580@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratyush-kumar-chaturvedi-086958256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-kumar-chaturvedi-086958256" height="30" width="40" /></a>
-</p>
+## 🌟 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 1. CONNEXUS - An Aid to the Specially Abled Community
+**Tech Stack:** Dart, GoLang, Flutter, Firebase, Cloud Messaging, WebRTC, Google Cloud APIs, Tﬂite  
+**Description:** Developed an inclusive video conferencing app with live speech and sign language translation for seamless communication among users with hearing or speech impairments.
+- Implemented Firebase Phone Authentication and Realtime Database for secure and interactive messaging.
+- Integrated Google Cloud Speech-to-Text and Text-to-Speech APIs for real-time speech recognition and synthesis.
+- Utilized Gesture Detection and Tﬂite for real-time Sign Language detection, ensuring accessibility.
+- Employed Agora SDK for robust video call and group chat functionalities.
+- **Source code available on GitHub:** [RAry-n/connexus-hackfest24](https://github.com/RAry-n/connexus-hackfest24)
+
+### 2. SRIJAN’24 - The Official Android App for Srijan’24
+**Tech Stack:** Kotlin, XML, Cloud Messaging, Razorpay Gateway, Retrofit, Node.js, Express.js, MongoDB  
+**Description:** Led a team project to develop the official Android app for Srijan – The Socio-Cultural Fest of IIT (ISM) Dhanbad.
+- Integrated Razorpay payment gateway for merchandise and subscription purchases.
+- Implemented user authentication, event registration, and announcement features.
+- Incorporated push notifications using Firebase Cloud Messaging for important announcements.
+- Published the app on Google Play: [Srijan ’24](https://play.google.com/store/apps/details?id=com.iitism.srijan24).
+
+### 3. LET ME KNOW - Empowering Users with Interactive Polls
+**Tech Stack:** Kotlin, XML, Firebase, Git, Android Studio  
+**Description:** Developed a versatile polling app enabling users to create and share text or image-based polls effortlessly.
+- Utilized MVVM and Clean Architecture patterns to ensure modularity and maintainability of the codebase.
+- Implemented poll statistics visualization using bar charts with MPAndroid Chart for enhanced data analysis.
+- Leveraged Firebase for Authentication, Realtime Database, and Cloud Storage functionalities.
+- Integrated Dark Mode feature to enhance user experience and accessibility.
+- **Source code available on GitHub:** [LetMeKnow-WOC22](https://github.com/LetMeKnow-WOC22)
+
+---
+
+## 🔧 Technical Skills
+
+- **Programming Languages:** C/C++, Kotlin, XML, Dart, Python, Javascript*, GoLang*
+- **Mobile Development Frameworks:** Android SDK, Flutter
+- **Backend Development Frameworks:** Node.js*, Express.js*
+- **Database Management:** MongoDB, MySQL, Cloud Firestore, Realtime Database
+- **Version Control:** Git/GitHub
+
+*Elementary Proficiency
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** [hombrecito2580@gmail.com]
+- **LinkedIn:** [pratyush-kumar-chaturvedi](https://www.linkedin.com/in/pratyush-kumar-chaturvedi-086958256)
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome! If you have any suggestions or want to collaborate, feel free to open an issue or create a pull request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+---
+
+## 📜 License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 🌱 Let's Grow Together
+
+Thank you for visiting my repository! If you find my projects useful or interesting, please give them a star ⭐. Your support and feedback are greatly appreciated!
+
+Happy coding! 😊
