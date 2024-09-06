@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for app development. Here, you'll find various projects that I've worked on, primarily focusing on Android and Flutter development. Feel free to explore, contribute, or just say hi!
+I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from IIT Dhanbad with a passion for app development. Here, you'll find various projects that I've worked on, primarily focusing on Android and Cross-Platform Development. Feel free to explore, contribute, or just say hi!
 
 ---
 
@@ -15,7 +15,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 - Integrated Google Cloud Speech-to-Text and Text-to-Speech APIs for real-time speech recognition and synthesis.
 - Utilized Gesture Detection and Tﬂite for real-time Sign Language detection, ensuring accessibility.
 - Employed Agora SDK for robust video call and group chat functionalities.
-- **Source code available on GitHub:** [RAry-n/connexus-hackfest24](https://github.com/RAry-n/connexus-hackfest24)
+- [Source code available on GitHub](https://github.com/RAry-n/connexus-hackfest24)
 
 ### 2. SRIJAN’24 - The Official Android App for Srijan’24
 **Tech Stack:** Kotlin, XML, Cloud Messaging, Razorpay Gateway, Retrofit, Node.js, Express.js, MongoDB  
@@ -23,7 +23,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 - Integrated Razorpay payment gateway for merchandise and subscription purchases.
 - Implemented user authentication, event registration, and announcement features.
 - Incorporated push notifications using Firebase Cloud Messaging for important announcements.
-- Published the app on Google Play: [Srijan ’24](https://play.google.com/store/apps/details?id=com.iitism.srijan24).
+- Published the app on Google Play: [Srijan ’24](https://play.google.com/store/apps/details?id=com.iitism.srijan24)
 
 ### 3. LET ME KNOW - Empowering Users with Interactive Polls
 **Tech Stack:** Kotlin, XML, Firebase, Git, Android Studio  
@@ -32,7 +32,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 - Implemented poll statistics visualization using bar charts with MPAndroid Chart for enhanced data analysis.
 - Leveraged Firebase for Authentication, Realtime Database, and Cloud Storage functionalities.
 - Integrated Dark Mode feature to enhance user experience and accessibility.
-- **Source code available on GitHub:** [LetMeKnow-WOC22](https://github.com/LetMeKnow-WOC22)
+- [Source code available on GitHub](https://github.com/LetMeKnow-WOC22)
 
 ### 4. CEREBROSCAN - Insightful Brain Health Solutions
 **Tech Stack:** Kotlin, XML, Retrofit, Node.js, Express.js, MongoDB  
@@ -41,7 +41,7 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 - Integrated JWT authentication using MongoDB and Express.js for enhanced security.
 - Implemented support for dark theme to enhance user experience and accessibility.
 - Hosted the backend server and the ML model on Render for seamless performance and scalability.
-- **Source code available on GitHub:** [cerebroscan-hackoverflow07](https://github.com/hombrecito2580/cerebroscan-hackoverflow07)
+- [Source code available on GitHub](https://github.com/hombrecito2580/cerebroscan-hackoverflow07)
 
 ---
 
@@ -54,16 +54,17 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 [![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)](https://www.w3schools.com/xml/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)\*
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)\*
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
 **Mobile Development Frameworks:**  
 [![Android](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 **Backend Development Frameworks:**  
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)\*
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)\*
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 
 **Database Management:**  
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -74,8 +75,6 @@ I'm Pratyush Kumar Chaturvedi, a Computer Science and Engineering Undergrad from
 **Version Control:**  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-
-* \*Elementary Proficiency
 
 ---
 
